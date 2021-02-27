@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/test/java/uni/pl/fmi/CucumberStarter.java=UTF-8
+encoding//src/test/resources/Feature/addFlight.feature=UTF-8
+encoding//src/test/resources/Feature/searchFlight.feature=UTF-8
